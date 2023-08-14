@@ -1,2 +1,2 @@
 # links.gianstech.it
-My links pages
+My links page
