@@ -60,6 +60,7 @@ body{
   }
 
   sub{
+    margin-top: 100px;
     color:gray;
     font-size: 15px;
   }
