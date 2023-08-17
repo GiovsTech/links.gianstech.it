@@ -72,3 +72,7 @@ font-size: 15px;
 .back{
 margin-left: 18%;
 }
+
+.back img{
+display: flex;
+}
