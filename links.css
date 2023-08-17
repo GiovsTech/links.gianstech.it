@@ -70,9 +70,6 @@ font-size: 15px;
 }
 
 .back{
+margin-top: 5%;
 margin-left: 18%;
-}
-
-.back img{
-display: flex;
 }
